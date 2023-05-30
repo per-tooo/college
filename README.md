@@ -11,4 +11,4 @@ As a student of either highschool or college, you may be familiar with the term 
 - Basics of Programing (Grundlagen der Programmierung)
 - Theory of Computer Science 1 (Maschinenmodelle)
 - Algorithms and Data Structures (Algorithmen und Datenstrukturen)
-- Practical Programing (Praxis der Programmierung)
+- [Practical Programing (Praxis der Programmierung)](https://github.com/per-tooo/college/tree/Practical-Programing-(Praxis-der-Programmierung))
