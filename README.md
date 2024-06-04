@@ -8,6 +8,6 @@ Hi! I'm Simon, a 20 year old student of University Potsdam, who wants to become 
 As a student of either highschool or college, you may be familiar with the term module. Basically modules are subjects and every branch will be a module.
 
 - Basics of Programing (Grundlagen der Programmierung)
-- Theory of Computer Science 1 (Maschinenmodelle)
+- [Theory of Computer Science 1 (Maschinenmodelle)](https://github.com/per-tooo/college/tree/theory01)
 - Algorithms and Data Structures (Algorithmen und Datenstrukturen)
 - Practical Programing (Praxis der Programmierung)
